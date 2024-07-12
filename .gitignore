@@ -1,0 +1,26 @@
+# Ignore all *.txt files
+*.txt
+
+# do not ignore readme.txt
+!readme.txt
+
+# Ignore .md files only in the root folder
+/*.md
+
+#Ignore all .java files in folders and subfolders of gen folder
+gen/**/.java
+
+# Ignore java binary files
+*.class
+*.jar
+hello
+
+# Ignore C/C++ binary files
+*.exe
+*.o
+
+#Ignore folders
+tmp
+bin
+lib
+
