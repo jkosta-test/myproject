@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    puts("Γειά χαρά σου κόσμε!");
+    puts("Γειά σου git!");
     return 0;
 }
