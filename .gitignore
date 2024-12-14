@@ -5,7 +5,7 @@
 !readme.txt
 
 # Ignore .md files only in the root folder
-/*.md
+
 
 #Ignore all .java files in folders and subfolders of gen folder
 gen/**/.java
